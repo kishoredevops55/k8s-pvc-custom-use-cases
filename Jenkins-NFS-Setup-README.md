@@ -1,9 +1,3 @@
-That's a fantastic idea\! A `README.md` is the ideal format for presenting the final, complete, and fully-corrected solution to your management or team.
-
-Here is the entire configuration and corrected procedure in a comprehensive Markdown format.
-
------
-
 # 🌐 Jenkins on Kubernetes with Dynamic NFS Persistence
 
 This guide details the complete, tested, and corrected configuration for deploying Jenkins with resilient, dynamic storage using a dedicated NFS server and provisioner in a Kubernetes (Kind) environment.
